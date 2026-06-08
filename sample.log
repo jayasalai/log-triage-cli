@@ -1,6 +1,0 @@
-INFO: server started
-INFO: user logged in
-WARNING: low disk space
-ERROR: database connection failed
-ERROR: timeout on request
-INFO: health check passed

@@ -1,0 +1,6 @@
+2026-06-05 09:14:02 INFO server started successfully
+2026-06-05 09:15:10 WARNING disk space running low
+2026-06-05 09:16:45 ERROR database connection failed
+2026-06-05 09:17:02 INFO user logged in
+2026-06-05 09:18:30 ERROR timeout on request
+2026-06-05 09:19:00 INFO health check passed
